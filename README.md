@@ -9,4 +9,4 @@ Simple Streamlit application that predicts Google trends.
 + Heroku for deployment (GitHub method)
 
 You can find the written tutorial by following this link: 
-https://medium.com/@elliot.trabac1/build-and-deploy-simple-ml-tools-by-stacking-coolest-librairies-f7cb94bad53d
+https://towardsdatascience.com/build-and-deploy-simple-ml-tools-by-stacking-coolest-librairies-f7cb94bad53d
